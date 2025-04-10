@@ -1,0 +1,18 @@
+Runtime Component Id,Runtime Status, Display Name,Value
+integrationServer-default,ONLINE,Response Time,0.03
+integrationServer-default,ONLINE,Running Services,3.32
+integrationServer-default,  ONLINE, Service Errors,8.66
+OSGI-IS_default-AppPlatform-ENGINE, UNKNOWN,NA,NA
+OSGI-IS_default-DigitalEventServices,ONLINE,NA,NA
+OSGI-IS_default-EventRouting,ONLINE,NA,NA
+OSGI-IS_default,  ONLINE, JVM CPU Load,40
+OSGI-IS_default,ONLINE,  JVM Memory,56.00
+OSGI-IS_default,  ONLINE,JVM Threads,97.21
+OSGI-IS_default-WmJDBCAdapter,  ONLINE,NA,NA
+OSGI-IS_default-WmMonitor,  ONLINE,NA,NA
+OSGI-SPM-ENGINE, ONLINE,Disk Space,20.03
+OSGI-SPM-ENGINE,ONLINE,  System CPU,45
+OSGI-SPM-ENGINE, ONLINE,System Memory,98.95
+OSGI-SPM,  ONLINE,JVM CPU Load,0
+OSGI-SPM,ONLINE, JVM Memory,89.30
+OSGI-SPM, ONLINE, JVM Threads,90.48
